@@ -7,3 +7,4 @@ I don't know what should I write here.</p>
 <p><strong>So, Let's Be The Rock Here</strong></p>
 <p>I've got some basic knowledge and rules from <a href="https://code-basics.com/">this courses<a><br>
 and will try to do smth with it.</p>
+https://jakhve.github.io/Newborn-Fiodar/

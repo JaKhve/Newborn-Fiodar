@@ -1,0 +1,38 @@
+header {
+    padding: 10px 40px;
+    width: 1200px;
+    background-color: #293133;
+    color: #ffffff;
+}
+
+aside {
+    float: left;
+    padding: 10px 40px;
+    margin: 10px 0;
+    width: 200px;
+    background-color: #e78d3e;
+    text-align: right;
+}
+
+main {
+    float: left;
+    padding: 10px 0px 10px 40px;
+    margin: 10px 0px;
+    width: 960px;
+    background-color: #ffffffff;
+}
+
+.side_name {
+    background-color: #eccbad;
+    margin-right: -40px;
+}
+
+.main_name {
+    background-color: #eccbad;
+    padding: 0px 0px 0px 50px;
+    margin-left: -50px;
+}
+
+.text_center {
+    text-align: center;
+}
