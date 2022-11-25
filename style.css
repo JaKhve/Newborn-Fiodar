@@ -1,7 +1,31 @@
-    header {
-        background-color: #141212e1;
-        color: #ffffff;
-        padding: 20px;
-        margin: 0px;
-        border: 2px solid #000000;
-    }
+header {
+    padding: 10px 40px;
+    background-color: #293133;
+    color: #ffffff;
+}
+
+aside {
+    width: 200px;
+    padding: 10px 40px;
+    margin: 10px 0;
+    background-color: #e78d3e;
+    text-align: right;
+}
+
+main {
+    position: absolute;
+    left: 300px;
+    right: 8px;
+    top: 110px;
+    padding: 10px 40px;
+    margin: 8px 0;
+    background-color: #ffffffff;
+}
+
+.side_name {
+    background-color: #eccbad;
+}
+
+.text_center {
+    text-align: center;
+}
