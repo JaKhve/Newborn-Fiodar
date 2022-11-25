@@ -1,29 +1,36 @@
 header {
     padding: 10px 40px;
+    width: 1200px;
     background-color: #293133;
     color: #ffffff;
 }
 
 aside {
-    width: 200px;
+    float: left;
     padding: 10px 40px;
     margin: 10px 0;
+    width: 200px;
     background-color: #e78d3e;
     text-align: right;
 }
 
 main {
-    position: absolute;
-    left: 300px;
-    right: 8px;
-    top: 110px;
-    padding: 10px 40px;
-    margin: 8px 0;
+    float: left;
+    padding: 10px 0px 10px 40px;
+    margin: 10px 0px;
+    width: 960px;
     background-color: #ffffffff;
 }
 
 .side_name {
     background-color: #eccbad;
+    margin-right: -40px;
+}
+
+.main_name {
+    background-color: #eccbad;
+    padding: 0px 0px 0px 50px;
+    margin-left: -50px;
 }
 
 .text_center {
